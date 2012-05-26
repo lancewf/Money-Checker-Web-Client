@@ -1,0 +1,1 @@
+[{"key":4623,"store":"Verizon Wireless","cost":25,"notes":"","billtypekey":5,"dayofmonth":1,"month":12,"year":2009},{"key":4589,"store":"Costco","cost":9,"notes":"","billtypekey":17,"dayofmonth":2,"month":12,"year":2009},{"key":4590,"store":"Costco","cost":-9,"notes":"Subtracting other purchases","billtypekey":7,"dayofmonth":2,"month":12,"year":2009}]
